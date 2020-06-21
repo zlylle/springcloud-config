@@ -1,4 +1,0 @@
-//在b1分支中创建文件在
-public class test{
-	private String name;
-}
